@@ -1,0 +1,10 @@
+{
+  "versionCode": 1790642251,
+  "versionName": "0.9.4",
+  "apkUrl": "https://github.com/VladOXPR/cuub-station-ota/raw/ota/cuub-station.apk",
+  "sha256": "5a77aeea02a56615c8ae87fa109e19bd5df0a1ee139b9cdbc78df6447c4dc332",
+  "takeover": false,
+  "launcher": "relink",
+  "relinkApkUrl": "https://github.com/VladOXPR/cuub-station-ota/raw/ota/relink.apk",
+  "relinkSha256": "256b2b885eaf902d7cf4fc57ae6f68a4414e38813257c4f2b16d56b459b31e0e"
+}
